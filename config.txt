@@ -1,0 +1,5 @@
+Estructura Credenciales API "api-basketball.com"
+
+"X-RapidAPI-Key": cadena de 50 caracteres,
+"X-RapidAPI-Host": "api-basketball.p.rapidapi.com"
+
